@@ -1,6 +1,5 @@
 '''
 Charlie Lees
-CS 5001 Final Project
 This file will be a test for the Model class in this project.
 
 I will be testing each of the functions in the class to make sure it is grabbing the correct data

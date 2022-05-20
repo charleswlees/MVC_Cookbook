@@ -1,6 +1,5 @@
 '''
 Charlie Lees
-CS 5001 Final Project
 This file will be testing the GUI created by the View
 
 Both of these tests are visual, they will launch the live version of a page along with an image

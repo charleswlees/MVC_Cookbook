@@ -1,6 +1,5 @@
 '''
 Charlie Lees
-CS 5001 Final Project
 This class contains the information for the View, the visual elements of the GUI itself.
 '''
 
