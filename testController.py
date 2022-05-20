@@ -1,6 +1,5 @@
 '''
 Charlie Lees
-CS 5001 Final Project
 This file will be a test for the Controller class in this project.
 
 As the controller is going calling methods from the Model, I will be 
