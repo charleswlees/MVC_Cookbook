@@ -1,6 +1,5 @@
 '''
 Charlie Lees
-CS 5001 Final Project
 This class is the Controller, interfaces between the Model and View in order to create the GUI functionality.
 '''
 
