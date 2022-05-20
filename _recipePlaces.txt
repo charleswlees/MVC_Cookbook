@@ -1,0 +1,10 @@
+recipes\meatloafRecipe.txt
+recipes\pastaRecipe.txt
+recipes\porkRecipe.txt
+recipes\clamRecipe.txt
+recipes\primeRibRecipe.txt
+recipes\yorkshireRecipe.txt
+recipes\vodkaRecipe.txt
+recipes\sweetSourRecipe.txt
+recipes\twiceBakedRecipe.txt
+recipes\chickenTortillaRecipe.txt
