@@ -1,6 +1,5 @@
 '''
 Charlie Lees
-CS 5001 Final Project
 This class is the Model, it holds and organizes the data which is going to be used in the GUI
 '''
 
